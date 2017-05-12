@@ -12,6 +12,7 @@ public class MyClassTest extends TestCase {
         assertEquals(0,test.testHello("a"));
 	assertEquals(2,test.testHello("a"));
 	assertEquals(1,test.testHello("b"));
+        assertEquals(0,test.testHello("b"));
     }
 
 }

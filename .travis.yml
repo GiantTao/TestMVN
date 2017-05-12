@@ -3,6 +3,6 @@ notifications:
   email:
     recipients:
       - wtctc@126.com
-      - giang.wang@sap.com
+      - giant.wang@sap.com
     on_success: never # default: change
     on_failure: always # default: always

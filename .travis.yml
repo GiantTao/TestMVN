@@ -2,7 +2,7 @@ language: java
 notifications:
   email:
     recipients:
-      - wtctc@126.com
+      - wtctc6283@gmail.com
       - giant.wang@sap.com
     on_success: always # default: change
     on_failure: always # default: always

@@ -4,5 +4,5 @@ notifications:
     recipients:
       - wtctc6283@gmail.com
       - giant.wang@sap.com
-    on_success: always # default: change
+    on_success: never # default: change
     on_failure: always # default: always
